@@ -1,4 +1,4 @@
-package com.cydeo.tests.review.week4;
+package com.cydeo.utilities.week4;
 
 import com.cydeo.pages.VytrackLoginPage;
 import com.cydeo.utilities.ConfigurationReader;

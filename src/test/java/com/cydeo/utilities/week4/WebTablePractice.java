@@ -1,4 +1,4 @@
-package com.cydeo.tests.review.week4;
+package com.cydeo.utilities.week4;
 
 import com.cydeo.utilities.Driver;
 import org.openqa.selenium.By;

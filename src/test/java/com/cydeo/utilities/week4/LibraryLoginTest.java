@@ -1,11 +1,8 @@
-package com.cydeo.tests.review.week4;
+package com.cydeo.utilities.week4;
 
 import com.cydeo.pages.LibraryLoginPage;
-import com.cydeo.utilities.ConfigurationReader;
 import com.cydeo.utilities.Driver;
 import org.testng.Assert;
-import org.testng.annotations.AfterMethod;
-import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
 public class LibraryLoginTest {
