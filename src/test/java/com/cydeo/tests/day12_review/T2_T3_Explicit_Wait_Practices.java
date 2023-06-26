@@ -15,7 +15,7 @@ public class T2_T3_Explicit_Wait_Practices {
 
     @BeforeMethod
     public void setupMethod(){
-        //1- Open a Chrome browser
+        //1- Open a  browser
         //2- Go to: https://practice.cydeo.com/dynamic_controls
         Driver.getDriver().get("https://practice.cydeo.com/dynamic_controls");
         dynamicControlsPage = new DynamicControlsPage();

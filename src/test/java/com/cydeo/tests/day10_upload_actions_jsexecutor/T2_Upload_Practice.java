@@ -17,8 +17,8 @@ public class T2_Upload_Practice {
         //2. Find some small file from your computer, and get the path of it.
         String path = "/Users/gurhan/Desktop/file.txt";
         /*
-        Windows path option #1: C:\\Users\\hayat\\Desktop\\note.txt
-        Windows path option #2: C://Users/hayat/Desktop/note.txt
+        Windows path option #1: C:\\Users\\hayat\\Desktop\\Week 4 Live Review and Extra Tasks.txt
+        Windows path option #2: C://Users/hayat/Desktop/Week 4 Live Review and Extra Tasks.txt
          */
 
         //3. Upload the file. Use sendKeys() method and pass the "path" as a String.

@@ -1,6 +1,6 @@
 package com.cydeo.tests.day11_pom_explicit_waits;
 
-import com.cydeo.pages.DynamicLoad7Page;
+import com.cydeo.dynamicLoad7Page;
 import com.cydeo.utilities.Driver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
@@ -20,7 +20,7 @@ public class T10_ExplicitWaitPractice {
         WebDriverWait wait = new WebDriverWait(Driver.getDriver(), Duration.ofSeconds(10));
         wait.until(ExpectedConditions.titleIs("Dynamic title"));
 
-        DynamicLoad7Page dynamicLoad7Page = new DynamicLoad7Page();
+        dynamicLoad7Page dynamicLoad7Page = new dynamicLoad7Page();
         //3. Assert: Message “Done” is displayed.
         Assert.assertTrue(dynamicLoad7Page.doneMessage.isDisplayed());
 
