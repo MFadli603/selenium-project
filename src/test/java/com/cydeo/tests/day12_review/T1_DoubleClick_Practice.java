@@ -1,6 +1,5 @@
 package com.cydeo.tests.day12_review;
 
-import com.cydeo.pages.W3Page;
 import com.cydeo.utilities.Driver;
 import org.openqa.selenium.interactions.Actions;
 import org.testng.Assert;

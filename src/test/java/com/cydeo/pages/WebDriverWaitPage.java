@@ -40,9 +40,4 @@ public class WebDriverWaitPage {
     @FindBy(id="flash")
     public WebElement errorMsg;
 
-
-
-
-
-
 }
